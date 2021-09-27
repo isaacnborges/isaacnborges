@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hey there 👋
 
-<!--
-**isaacnborges/isaacnborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😀 About
+- Software engineer at Avenue Code.
+- Graduated in computer science.
+- Sports lover, principally NBA and soccer.
+- I really like good beers, so cheers!
+- I love to travel arround the world to know his places and culture.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- I’m currently working with .NET Core and .NET ecosystem.
+- Languages: C#, TypeScript.
+- Databases: Sql Server, MongoDB.
+- Tools: Azure Devops, GitHub Actions, ElasticSearch, RabbitMQ, Angular.
+- Containers: Docker, Kubernetes.
+- Cloud: Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align=left>
+  <a href="http://github.com/isaacnborges/" title="Top Langs">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnborges&layout=compact&theme=gotham">
+  </a>
+  <a href="http://github.com/isaacnborges/" title="About Me">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=isaacnborges&show_icons=true&layout=compact&theme=gotham" />
+  </a>
+</p>
+
+<br/>
+
+### 🤝 Contacts
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&labelColor=white&logo=gmail&logoColor=red&link=isaacnborges@gmail.com)](mailto:isaacnborges@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacnborges/)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/isaacnborges/)
