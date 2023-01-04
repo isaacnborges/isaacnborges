@@ -14,6 +14,9 @@
 - Tools: Azure Devops, GitHub Actions, Azure, ElasticSearch, RabbitMQ, Angular.
 - Containers: Docker, Kubernetes.
 
+https://github-readme-stats.vercel.app/api?username=isaacnborges
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacnborges&show_icons=true&theme=gotham)
+
 ### ⚙️ GitHub stats
 <p align=left>
   <a href="http://github.com/isaacnborges/" title="Top Langs">
@@ -21,6 +24,15 @@
   </a>
   <a href="http://github.com/isaacnborges/" title="About Me">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=isaacnborges&show_icons=true&layout=compact&theme=gotham" />
+  </a>
+</p>
+
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasassaki&layout=compact&theme=gotham">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=leticiasassaki&show_icons=true&layout=compact&theme=gotham" />
   </a>
 </p>
 
