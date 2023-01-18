@@ -17,10 +17,10 @@
 ### ⚙️ GitHub stats
 <p align=left>
   <a href="http://github.com/isaacnborges/" title="Top Langs">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnborges&layout=compact&theme=gotham">
+    <img height=175 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isaacnborges&layout=compact&theme=gotham">
   </a>
   <a href="http://github.com/isaacnborges/" title="About Me">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=isaacnborges&show_icons=true&layout=compact&theme=gotham" />
+  <img height=175 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaacnborges&show_icons=true&layout=compact&theme=gotham" />
   </a>
 </p>
 
