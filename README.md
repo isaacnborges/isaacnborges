@@ -2,7 +2,7 @@
 
 ### 😀 About
 - Software engineer at Avenue Code.
-- Graduated in computer science.
+- Bachelor's degree in computer science.
 - Sports lover, principally NBA and soccer.
 - I really like good beers, so cheers!
 - I love to travel arround the world to know his places and culture.
