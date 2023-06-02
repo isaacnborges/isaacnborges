@@ -3,9 +3,9 @@
 ### 😀 About
 - Software engineer at Avenue Code.
 - Bachelor's degree in computer science.
-- Sports lover, principally NBA and soccer.
+- Sports lover, mainly NBA and soccer.
 - I really like good beers, so cheers!
-- I love to travel arround the world to know his places and culture.
+- I love to travel arround the world to know different places and cultures.
 
 ### 💻 Tech Stack
 - I’m currently working with .NET Core and .NET ecosystem.
