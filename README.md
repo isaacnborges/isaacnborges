@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 ### 😀 About
-- Software engineer at Avenue Code.
+- Software engineer.
 - Bachelor's degree in computer science.
 - Sports lover, mainly NBA and football (soccer).
 - I really like good beers, so cheers!
